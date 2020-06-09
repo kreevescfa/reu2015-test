@@ -7,4 +7,3 @@ shapely
 os
 datetime
 pickle
-__future__
