@@ -5,4 +5,4 @@ pandas
 sunpy
 shapely
 datetime
-pickle
+pickle==3.*
