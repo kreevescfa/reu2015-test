@@ -6,3 +6,4 @@ sunpy
 shapely
 datetime
 zeep
+bs4
